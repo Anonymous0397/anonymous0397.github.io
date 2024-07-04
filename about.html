@@ -1,4 +1,6 @@
-<html lang="en"><head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Website Layout</title>
@@ -48,7 +50,7 @@
         footer {
             background-color: #333;
             color: #fff;
-            padding: 13px 0;
+            padding: 10px 0;
             text-align: center;
         }
     </style>
@@ -68,11 +70,16 @@
         <h2>About</h2>
         <p>This is the about page. Content will be availiable soon!</p>
     </main>
-    
-
-<footer>
-        <p>This is a blank</p>
-    </footer><div></div>
-<footer>
-        <p>© 2023 Website Name</p>
-    </footer></body></html>
+    <footer>
+        <p>&copy; 2023 Website Name</p>
+    </footer>
+    <script>
+        const footer = document.querySelector('footer');
+        footer.style.position = 'fixed';
+        footer.style.bottom = '0';
+        footer.style.width = '100%';
+    </script>
+</body>
+</html>
+</body>
+</html>
