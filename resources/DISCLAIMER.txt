@@ -1,0 +1,10 @@
+DISCLAIMER
+I am not responsible for any harm that may come to your device, including but not limited to bricked devices, dead SD cards, thermonuclear war, or your alarm clock failing. YOU are choosing to make these modifications, and by proceeding, you assume all risk.
+Flashing custom ROMs and unlocking your device's bootloader can:
+
+    Void your manufacturer's warranty.
+    Wipe all data from your phone (factory reset).
+    Potentially make your phone permanently unusable (hard brick) if done incorrectly.
+    Cause bugs or stability issues not present in the stock firmware.
+
+Ensure you read all instructions thoroughly and understand every step before you begin. Proceed at your own risk.
