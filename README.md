@@ -19,3 +19,6 @@ The minimum Android version that the website works on when using the stock brows
 Proof: 
 
 <img width="480" height="800" alt="Screenshot_2025-12-07-20-54-27" src="https://github.com/user-attachments/assets/3947a052-eee0-40ea-b8b6-3060c4a1454f" />
+
+
+<img width="768" height="1280" alt="Screenshot_1765140318" src="https://github.com/user-attachments/assets/a36493ee-fe76-4eb0-9efe-546e355f0fb1" />
