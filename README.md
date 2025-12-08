@@ -5,7 +5,7 @@
 
 ~~Remember, I did not create the website myself, I used AI~~
 
-Only on anonymous0397.github.io/legacy/
+**Only on anonymous0397.github.io/legacy/**
 
 
 Update 03.12.2025
