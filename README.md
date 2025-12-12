@@ -25,4 +25,6 @@ Proof:
 
 **Why did I switch from AI to simply using my brain?**
 
-You can't have AI to do everything for you especially making a design. If you prompt AI to do something and you want it to be something that you're thinking of, you can't expect AI to do that for you, you need to do this yourself.
+You can't have AI to do everything for you especially making a design. If you prompt AI to do something and you want it to be something that you're thinking of, you can't expect AI to do that for you, you have to do this yourself. Plus it's easier to catch up to where you was. 
+
+If you put web development in your resume and you include the website that you used AI to make, well you know the rest
