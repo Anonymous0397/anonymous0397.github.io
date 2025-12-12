@@ -23,6 +23,6 @@ Proof:
 
 <img width="768" height="1280" alt="Screenshot_1765140318" src="https://github.com/user-attachments/assets/a36493ee-fe76-4eb0-9efe-546e355f0fb1" />
 
-__Why did I switch from AI to simply using my brain?__
+**Why did I switch from AI to simply using my brain?**
 
-You can't have AI to do everything for you especially making a design. If you prompt AI to do something and you want it to be somethign that you're thinking of, you can't expect AI to do that for you, you need to do this yourself.
+You can't have AI to do everything for you especially making a design. If you prompt AI to do something and you want it to be something that you're thinking of, you can't expect AI to do that for you, you need to do this yourself.
