@@ -10,3 +10,9 @@ button {
 	box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.4);
 	font-family: 'Consolas', Arial, sans-serif;
 }
+
+footer {
+	position: absolute;
+	bottom: 0;
+
+}
