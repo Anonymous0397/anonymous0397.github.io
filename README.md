@@ -12,6 +12,9 @@ Update 03.12.2025
 I am developing my own version without using AI since I now know some HTML (only the foundation of it but yeah)
 So please expect the website to have basic UI elements. Thank you.
 
+Update 02.18.2026
+I am testing ads, adblockers are allowed and I will not ban them
+
 __**USELESS INFO**__
 
 The minimum Android version that the website works on when using the stock browser (not Chrome) is Android 4.4
