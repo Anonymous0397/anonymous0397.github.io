@@ -12,8 +12,8 @@ Update 03.12.2025
 I am developing my own version without using AI since I now know some HTML (only the foundation of it but yeah)
 So please expect the website to have basic UI elements. Thank you.
 
- ̶U̶p̶d̶a̶t̶e̶ ̶0̶2̶.̶1̶8̶.̶2̶0̶2̶6̶
-̶I̶ ̶a̶m̶ ̶t̶e̶s̶t̶i̶n̶g̶ ̶a̶d̶s̶,̶ ̶a̶d̶b̶l̶o̶c̶k̶e̶r̶s̶ ̶a̶r̶e̶ ̶a̶l̶l̶o̶w̶e̶d̶ ̶a̶n̶d̶ ̶I̶ ̶w̶i̶l̶l̶ ̶n̶o̶t̶ ̶b̶a̶n̶ ̶t̶h̶e̶m̶  Google Ads rejected it
+U̴̶̴p̴̶̴d̴̶̴a̴̶̴t̴̶̴e̴̶̴ ̴̶̴0̴̶̴2̴̶̴.̴̶̴1̴̶̴8̴̶̴.̴̶̴2̴̶̴0̴̶̴2̴̶̴6̴̶̴
+I̴̶̴ ̴̶̴a̴̶̴m̴̶̴ ̴̶̴t̴̶̴e̴̶̴s̴̶̴t̴̶̴i̴̶̴n̴̶̴g̴̶̴ ̴̶̴a̴̶̴d̴̶̴s̴̶̴,̴̶̴ ̴̶̴a̴̶̴d̴̶̴b̴̶̴l̴̶̴o̴̶̴c̴̶̴k̴̶̴e̴̶̴r̴̶̴s̴̶̴ ̴̶̴a̴̶̴r̴̶̴e̴̶̴ ̴̶̴a̴̶̴l̴̶̴l̴̶̴o̴̶̴w̴̶̴e̴̶̴d̴̶̴ ̴̶̴a̴̶̴n̴̶̴d̴̶̴ ̴̶̴I̴̶̴ ̴̶̴w̴̶̴i̴̶̴l̴̶̴l̴̶̴ ̴̶̴n̴̶̴o̴̶̴t̴̶̴ ̴̶̴b̴̶̴a̴̶̴n̴̶̴ ̴̶̴t̴̶̴h̴̶̴e̴̶̴m̴̶̴  Google Ads rejected it
 
 You are allowed to use my website layout as a template but please give full credit to me. Thanks!
 
