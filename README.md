@@ -12,8 +12,11 @@ Update 03.12.2025
 I am developing my own version without using AI since I now know some HTML (only the foundation of it but yeah)
 So please expect the website to have basic UI elements. Thank you.
 
-U̴̶̴p̴̶̴d̴̶̴a̴̶̴t̴̶̴e̴̶̴ ̴̶̴0̴̶̴2̴̶̴.̴̶̴1̴̶̴8̴̶̴.̴̶̴2̴̶̴0̴̶̴2̴̶̴6̴̶̴
+U̴̶̴p̴̶̴d̴̶̴a̴̶̴t̴̶̴e̴̶̴ ̴̶̴1̴̶̴8̴̶̴.0̴̶̴2̴̶̴.̴̶̴2̴̶̴0̴̶̴2̴̶̴6̴̶̴
 I̴̶̴ ̴̶̴a̴̶̴m̴̶̴ ̴̶̴t̴̶̴e̴̶̴s̴̶̴t̴̶̴i̴̶̴n̴̶̴g̴̶̴ ̴̶̴a̴̶̴d̴̶̴s̴̶̴,̴̶̴ ̴̶̴a̴̶̴d̴̶̴b̴̶̴l̴̶̴o̴̶̴c̴̶̴k̴̶̴e̴̶̴r̴̶̴s̴̶̴ ̴̶̴a̴̶̴r̴̶̴e̴̶̴ ̴̶̴a̴̶̴l̴̶̴l̴̶̴o̴̶̴w̴̶̴e̴̶̴d̴̶̴ ̴̶̴a̴̶̴n̴̶̴d̴̶̴ ̴̶̴I̴̶̴ ̴̶̴w̴̶̴i̴̶̴l̴̶̴l̴̶̴ ̴̶̴n̴̶̴o̴̶̴t̴̶̴ ̴̶̴b̴̶̴a̴̶̴n̴̶̴ ̴̶̴t̴̶̴h̴̶̴e̴̶̴m̴̶̴  Google Ads rejected it
+
+Update 12.05.2026
+I am starting to know some more HTML and CSS, I am thinking of doing a design overhaul of the website, I may remove the AI generated layout, the error 404 page will isn't going anywhere (for now)
 
 You are allowed to use my website layout as a template but please give full credit to me. Thanks!
 
