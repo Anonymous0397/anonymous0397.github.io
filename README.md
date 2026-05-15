@@ -18,6 +18,9 @@ I̴̶̴ ̴̶̴a̴̶̴m̴̶̴ ̴̶̴t̴̶̴e̴̶̴s̴̶̴t̴̶̴i̴̶̴n̴̶̴g̴
 Update 12.05.2026
 I am starting to know some more HTML and CSS, I am thinking of doing a design overhaul of the website, I may remove the AI generated layout, the error 404 page will isn't going anywhere (for now)
 
+Update 15.05.2026
+I am no longer updating the website on github, you can visit the new website [here](https://user.userunknown358.workers.dev/)
+
 You are allowed to use my website layout as a template but please give full credit to me. Thanks!
 
 __**USELESS INFO**__
